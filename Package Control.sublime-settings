@@ -1,0 +1,30 @@
+{
+	"auto_upgrade_last_run": 1349621906,
+	"installed_packages":
+	[
+		"ActionScript 3",
+		"ApacheConf.tmLanguage",
+		"BracketHighlighter",
+		"copy-file-name",
+		"CTags",
+		"CTags for PHP",
+		"DocBlockr",
+		"FileDiffs",
+		"Function Name Display",
+		"Git",
+		"Go Build",
+		"HaXe",
+		"INI",
+		"MagentoIntel",
+		"Package Control",
+		"Pretty JSON",
+		"Sublime File Navigator",
+		"SublimeLinter",
+		"Xdebug"
+	],
+	"repositories":
+	[
+		"https://github.com/Kronuz/SublimeCodeIntel",
+		"https://github.com/Kronuz/SublimeLinter"
+	]
+}

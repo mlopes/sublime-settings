@@ -1,0 +1,11 @@
+[
+    {
+        "keys":["super+alt+enter"],
+        "command": "run_macro_file",
+        "args": {"file": "Packages/PowerUser/semicolon.sublime-macro"}
+    },
+    {
+        "keys": ["ctrl+shift+t"],
+        "command": "delete_trailing_spaces"
+    }
+]
